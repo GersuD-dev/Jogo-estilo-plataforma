@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - parede
+  - obstaculo
+  - alma
+  - blockover
+  - passagem
+  - pequeno
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - fundo
+  - quase fundo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fundo
+    uniqueID: 934621533
+    locked: 0
+  - name: New Layer
+    uniqueID: 2366707481
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: chao
+    uniqueID: 3944433831
+    locked: 0
+  - name: player
+    uniqueID: 2290955425
+    locked: 0
